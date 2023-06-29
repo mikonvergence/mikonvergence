@@ -1,4 +1,4 @@
-My name is Mikolaj Czerkawski, I am a PhD researcher at the Department of Electronic and Electrical Engineering at the University of Strathclyde.
+My name is Mikolaj Czerkawski, I am a Research Fellow at the European Space Agency.
 
 My research interests involve **computer vision**, **signal processing**, and **machine learning**.
 
